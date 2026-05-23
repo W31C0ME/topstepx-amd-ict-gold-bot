@@ -1,1 +1,1 @@
-The full current content of api_client.py from sandbox with real candle fetching
+Full api_client.py with real retrieveBars implementation

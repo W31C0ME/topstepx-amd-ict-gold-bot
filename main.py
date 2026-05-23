@@ -1,1 +1,1 @@
-The full current content of main.py from sandbox
+Full main.py with complete loop, daily reset, error handling
