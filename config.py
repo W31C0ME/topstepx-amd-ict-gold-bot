@@ -1,1 +1,1 @@
-The content of config.py
+The full current content of config.py from sandbox

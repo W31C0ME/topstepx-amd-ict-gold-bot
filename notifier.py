@@ -1,1 +1,1 @@
-The content of notifier.py
+The full current content of notifier.py from sandbox

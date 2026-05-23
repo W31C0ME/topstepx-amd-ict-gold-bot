@@ -1,1 +1,1 @@
-The content of risk_manager.py
+The full current content of risk_manager.py from sandbox

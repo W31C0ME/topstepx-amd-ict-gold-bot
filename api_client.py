@@ -1,1 +1,1 @@
-The updated content of api_client.py with real candle fetching
+The full current content of api_client.py from sandbox with real candle fetching
