@@ -1,0 +1,1 @@
+The content of strategy.py
