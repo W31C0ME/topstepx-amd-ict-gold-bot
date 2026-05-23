@@ -1,1 +1,1 @@
-The content of api_client.py
+The updated content of api_client.py with real candle fetching
